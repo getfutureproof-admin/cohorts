@@ -1,0 +1,14 @@
+{
+    "active": [
+        { "name": "weiland" }
+        { "name": "templates" }
+     ],
+     "upcoming": [
+         { "name": "echo" }
+     ],
+     "graduated": [
+         { "name": "jackson" },
+         { "name": "turing" },
+         { "name": "lovelace" }
+     ]
+}
