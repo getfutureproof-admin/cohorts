@@ -1,7 +1,7 @@
 {
     "active": [
-        { "name": "weiland", "slackId": "B01CD3ZSNKC/LXCrndNtmt8lFyDYjsf7uoRF" },
-        { "name": "templates", "slackId": "B01BYE52F47/ifNZSwYx3mgL7J3CPtfkud05" }
+        { "name": "weiland", "slackId": "B01BYE52F47/ifNZSwYx3mgL7J3CPtfkud05" },
+        { "name": "templates", "slackId": "B01CD3ZSNKC/LXCrndNtmt8lFyDYjsf7uoRF" }
      ],
      "upcoming": [
          { "name": "echo" }
