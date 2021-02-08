@@ -1,10 +1,8 @@
 {
     "active": [
+        { "name": "hamilton", "slackId": "B01N2M6HXTJ/T8UAuIg9pxm4qZjH0Xb0Gtj2" },
         { "name": "weiland", "slackId": "B01BYE52F47/ifNZSwYx3mgL7J3CPtfkud05" },
         { "name": "templates", "slackId": "B01CD3ZSNKC/LXCrndNtmt8lFyDYjsf7uoRF" }
-     ],
-     "upcoming": [
-         { "name": "echo" }
      ],
      "graduated": [
          { "name": "jackson" },
