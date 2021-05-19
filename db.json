@@ -5,15 +5,20 @@
             "slackHooks": {
                 "studyBuddy": "B01N2M6HXTJ/T8UAuIg9pxm4qZjH0Xb0Gtj2",
                 "insights": "B01R6F6BTDW/jNbu1Jt0UXj0iKBU7C9RFLDH"
-            },
-            "slackId": "B01N2M6HXTJ/T8UAuIg9pxm4qZjH0Xb0Gtj2" 
+            }
         },
-        { "name": "weiland", "slackId": "B01BYE52F47/ifNZSwYx3mgL7J3CPtfkud05" },
-        { "name": "templates", "slackId": "B01CD3ZSNKC/LXCrndNtmt8lFyDYjsf7uoRF" }
+        { 
+            "name": "templates",
+            "slackHooks": {
+                "insights": "B022F0N1JBD/taSPjAN2vY53tZdYUTiszi9b",
+                "studyBuddy": "B01CD3ZSNKC/LXCrndNtmt8lFyDYjsf7uoRF"
+            }
+        }
      ],
      "graduated": [
          { "name": "jackson" },
          { "name": "turing" },
-         { "name": "lovelace" }
+         { "name": "lovelace" },
+         { "name": "weiland" }
      ]
 }
