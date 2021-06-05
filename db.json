@@ -8,12 +8,18 @@
         {
             "name": "morris",
             "startDate": "2021-06-14"
+        },
+        {
+            "name": "weiland",
+            "startDate": "2020-10-26"
+        },
+        {
+            "name": "jackson",
+            "startDate": "2020-07-06"
         }
      ],
      "legacy": [
-         { "name": "jackson" },
          { "name": "turing" },
-         { "name": "lovelace" },
-         { "name": "weiland" }
+         { "name": "lovelace" }
      ]
 }
