@@ -1,13 +1,28 @@
 {
     "cohorts": [
         { 
-            "name": "hamilton", 
-            "startDate": "2021-02-22"
+            "name": "conway", 
+            "startDate": "2021-11-01"
         },
-        
+        { 
+            "name": "baker", 
+            "startDate": "2021-09-13"
+        },
+        { 
+            "name": "kare", 
+            "startDate": "2021-08-23"
+        },
+        { 
+            "name": "kurita", 
+            "startDate": "2021-07-19"
+        },    
         {
             "name": "morris",
             "startDate": "2021-06-14"
+        },
+        { 
+            "name": "hamilton", 
+            "startDate": "2021-02-22"
         },
         {
             "name": "weiland",
