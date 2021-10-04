@@ -1,22 +1,5 @@
 {
     "cohorts": [
-        {
-            "name": "gebru",
-            "startDate": "2022-03-28"
-        },
-        {
-            "name": "mitnick",
-            "startDate": "2022-02-28"
-        },
-        {
-            "name": "lytical",
-            "startDate": "2022-01-10"
-        },
-        {
-            "name": "bhatt",
-            "startDate": "2021-11-22",
-            "endDate": "2022-03-04"
-        },
         { 
             "name": "conway", 
             "startDate": "2021-11-01",
