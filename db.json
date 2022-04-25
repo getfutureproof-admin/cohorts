@@ -1,6 +1,14 @@
 {
     "cohorts": [
         {
+            "name": "al-jazari",
+            "startDate": "2022-05-16"
+        },
+        {
+            "name": "auguste",
+            "startDate": "2022-04-25"
+        },
+        {
             "name": "gebru",
             "startDate": "2022-03-14"
         },
@@ -21,29 +29,29 @@
             "startDate": "2021-11-22",
             "endDate": "2022-03-04"
         },
-        { 
-            "name": "conway", 
+        {
+            "name": "conway",
             "startDate": "2021-11-01",
             "endDate": "2022-02-11"
         },
-        { 
-            "name": "baker", 
+        {
+            "name": "baker",
             "startDate": "2021-09-13"
         },
-        { 
-            "name": "kare", 
+        {
+            "name": "kare",
             "startDate": "2021-08-23"
         },
-        { 
-            "name": "kurita", 
+        {
+            "name": "kurita",
             "startDate": "2021-07-19"
-        },    
+        },
         {
             "name": "morris",
             "startDate": "2021-06-14"
         },
-        { 
-            "name": "hamilton", 
+        {
+            "name": "hamilton",
             "startDate": "2021-02-22"
         },
         {
@@ -55,9 +63,13 @@
             "name": "jackson",
             "startDate": "2020-07-06"
         }
-     ],
-     "legacy": [
-         { "name": "turing" },
-         { "name": "lovelace" }
-     ]
+    ],
+    "legacy": [
+        {
+            "name": "turing"
+        },
+        {
+            "name": "lovelace"
+        }
+    ]
 }
