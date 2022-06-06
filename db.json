@@ -1,75 +1,79 @@
 {
-    "cohorts": [
-        {
-            "name": "al-jazari",
-            "startDate": "2022-05-16"
-        },
-        {
-            "name": "auguste",
-            "startDate": "2022-04-25"
-        },
-        {
-            "name": "gebru",
-            "startDate": "2022-03-14"
-        },
-        {
-            "name": "mitnick",
-            "startDate": "2022-02-28"
-        },
-        {
-            "name": "wilkes",
-            "startDate": "2022-02-14"
-        },
-        {
-            "name": "lytical",
-            "startDate": "2022-01-10"
-        },
-        {
-            "name": "bhatt",
-            "startDate": "2021-11-22",
-            "endDate": "2022-03-04"
-        },
-        {
-            "name": "conway",
-            "startDate": "2021-11-01",
-            "endDate": "2022-02-11"
-        },
-        {
-            "name": "baker",
-            "startDate": "2021-09-13"
-        },
-        {
-            "name": "kare",
-            "startDate": "2021-08-23"
-        },
-        {
-            "name": "kurita",
-            "startDate": "2021-07-19"
-        },
-        {
-            "name": "morris",
-            "startDate": "2021-06-14"
-        },
-        {
-            "name": "hamilton",
-            "startDate": "2021-02-22"
-        },
-        {
-            "name": "weiland",
-            "startDate": "2020-10-26",
-            "endDate": "2021-02-05"
-        },
-        {
-            "name": "jackson",
-            "startDate": "2020-07-06"
-        }
-    ],
-    "legacy": [
-        {
-            "name": "turing"
-        },
-        {
-            "name": "lovelace"
-        }
-    ]
+  "cohorts": [
+    {
+      "name": "morgan",
+      "startDate": "2022-06-06"
+    },
+    {
+      "name": "al-jazari",
+      "startDate": "2022-05-16"
+    },
+    {
+      "name": "auguste",
+      "startDate": "2022-04-25"
+    },
+    {
+      "name": "gebru",
+      "startDate": "2022-03-14"
+    },
+    {
+      "name": "mitnick",
+      "startDate": "2022-02-28"
+    },
+    {
+      "name": "wilkes",
+      "startDate": "2022-02-14"
+    },
+    {
+      "name": "lytical",
+      "startDate": "2022-01-10"
+    },
+    {
+      "name": "bhatt",
+      "startDate": "2021-11-22",
+      "endDate": "2022-03-04"
+    },
+    {
+      "name": "conway",
+      "startDate": "2021-11-01",
+      "endDate": "2022-02-11"
+    },
+    {
+      "name": "baker",
+      "startDate": "2021-09-13"
+    },
+    {
+      "name": "kare",
+      "startDate": "2021-08-23"
+    },
+    {
+      "name": "kurita",
+      "startDate": "2021-07-19"
+    },
+    {
+      "name": "morris",
+      "startDate": "2021-06-14"
+    },
+    {
+      "name": "hamilton",
+      "startDate": "2021-02-22"
+    },
+    {
+      "name": "weiland",
+      "startDate": "2020-10-26",
+      "endDate": "2021-02-05"
+    },
+    {
+      "name": "jackson",
+      "startDate": "2020-07-06"
+    }
+  ],
+  "legacy": [
+    {
+      "name": "turing"
+    },
+    {
+      "name": "lovelace"
+    }
+  ]
 }
