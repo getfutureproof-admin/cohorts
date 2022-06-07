@@ -1,6 +1,14 @@
 {
   "cohorts": [
     {
+      "name": "bhatia",
+      "startDate": "2022-07-04"
+    },
+    {
+      "name": "rincon",
+      "startDate": "2022-06-13"
+    },
+    {
       "name": "morgan",
       "startDate": "2022-06-06"
     },
