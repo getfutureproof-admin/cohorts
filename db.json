@@ -1,6 +1,10 @@
 {
   "cohorts": [
     {
+      "name": "gustafsson",
+      "startDate": "2022-09-12"
+    },
+    {
       "name": "nakamoto",
       "startDate": "2022-08-29"
     },
