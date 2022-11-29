@@ -2,7 +2,8 @@
   "cohorts": [
     {
       "name": "kamkwamba",
-      "startDate": "2022-10-31"
+      "startDate": "2022-10-31",
+      "endDate": "2023-02-10"
     },
     {
       "name": "sholes",
