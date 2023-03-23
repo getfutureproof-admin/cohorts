@@ -1,7 +1,12 @@
 {
   "cohorts": [
     {
-      "name":"torvalds",
+      "name": "avgerou",
+      "startDate": "2023-04-03",
+      "endDate": "2023-06-24"
+    },
+    {
+      "name": "torvalds",
       "startDate": "2023-02-20",
       "endDate": "2023-05-12"
     },
