@@ -1,6 +1,11 @@
 {
   "cohorts": [
     {
+      "name": "jacquard",
+      "startDate": "2023-09-04",
+      "endDate": "2023-11-24"
+    },
+    {
       "name": "yao",
       "startDate": "2023-07-17",
       "endDate": "2023-10-06"
