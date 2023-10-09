@@ -1,6 +1,11 @@
 {
   "cohorts": [
     {
+      "name": "reddy",
+      "startDate": "2023-10-23",
+      "endDate": "2024-01-19"
+    },
+    {
       "name": "la fosse academy presents",
       "startDate": "2023-09-26",
       "endDate": "2023-09-26"
